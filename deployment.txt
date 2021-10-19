@@ -1,0 +1,9 @@
+Web scraping of the data from sales intelligence website is done by using Autoscrapper library in python
+
+This website consist lots of information about a collection of 100+ sales email templates and examples 
+that you can use to close more deals.
+
+
+
+abc12 = built for drop down option
+abc21 = built for keyword search option
